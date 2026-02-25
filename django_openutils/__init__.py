@@ -1,0 +1,13 @@
+"""
+Django OpenUtils
+~~~~~~~~~~~~~~~~
+
+Practical Django model utilities.
+
+:copyright: (c) 2025 Frankapps
+:license: MIT, see LICENSE for more details.
+"""
+
+__version__ = "0.1.0"
+__author__ = "Frankapps"
+__email__ = "hello@frankapps.com"
